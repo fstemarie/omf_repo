@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/fstemarie/fish_restic
+maintainer = fstemarie <fstemarie@gmail.com>
+description = Sets up the restic in my environment
