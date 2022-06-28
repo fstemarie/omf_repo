@@ -1,4 +1,4 @@
 type = plugin
-repository = https://github.com/fstemarie/fish_rclone
+repository = https://github.com/fstemarie/omf_rclone
 maintainer = fstemarie <fstemarie@gmail.com>
 description = Sets up the rclone in my environment
