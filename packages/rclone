@@ -1,4 +1,4 @@
 type = plugin
 repository = git@github.com:fstemarie/omf_rclone.git
 maintainer = fstemarie <fstemarie@gmail.com>
-description = Sets up the rclone in my environment
+description = Sets up the rclone variables in my environment
