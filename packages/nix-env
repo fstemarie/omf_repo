@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/lilyball/nix-env.fish
-maintainer = lilyball
-description = Sets up the nix package manager in the fish environment
