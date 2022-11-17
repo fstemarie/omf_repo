@@ -1,4 +1,4 @@
 type = plugin
-repository = https://github.com/fstemarie/omf_restic.git
+repository = https://github.com/fstemarie/omf_gpg.git
 maintainer = fstemarie <fstemarie@gmail.com>
 description = Sets up gpg in my environment
